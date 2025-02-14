@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         resultTv = findViewById(R.id.result_tv)
         solutionTv = findViewById(R.id.solution_tv)
 
+
         assignId(R.id.button_c)
         assignId(R.id.button_open_bracket)
         assignId(R.id.button_close_bracket)
